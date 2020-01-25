@@ -15,6 +15,6 @@
    - choose RevCHN
    - choose default
    - choose lufa
-2. Drag the `.hex` file generated from step 2 onto `reflash.bat`
+2. Drag the `.hex` file generated from step 3 above onto `reflash.bat`
 
 Voila, your keyboard should be flashed with your new mappings! 
